@@ -9,7 +9,8 @@
 - Arch Linux
 
 编程能力
-- Rust Lang
+- JavaScript、TypeScript、NodeJS
+- Python、Haskell、Rust Lang
 
 我正在写一本小书：[【教程：自学成为软件工程师】](https://lonexw.github.io/sse-book/)
 
