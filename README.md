@@ -56,3 +56,4 @@
 ### 如何联系我
 
 - 📫 Email：lone#expound.cc
+- 常住城市：成都 ｜ 北京
