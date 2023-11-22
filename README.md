@@ -67,5 +67,4 @@ PS：阅读对于我来说也是一种生活、社交方式，读书的时候你
 
 ### 如何联系我
 
-- 📫 Email：lone#expound.cc
-- 常住城市：成都 ｜ 北京
+📫 Email：lone#expound.cc
