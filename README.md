@@ -9,7 +9,7 @@
 人生与工作的态度：
 - 创造事物和热爱是内心动力的源泉
 - 理性面对生活的挫折和失败
-- 控制欲望，少做事情，持续学习：[Today I Learned](https://lonexw.github.io/til/)
+- 控制欲望，少做事情，持续学习：[Today I Learned-停止更新](https://lonexw.github.io/til/)
   
 [工程师思维](https://lonexw.github.io/sse-book/engineer/intro.html)：
 - 写一段在 ”本地运行没有问题” 的代码是很容易，软件行业的难度在于规模和复杂性问题；
@@ -53,17 +53,12 @@ PS：阅读对于我来说也是一种生活、社交方式，读书的时候你
 
 > 后续休息了很长一段时间，处理遗留事物，做些杂七杂八的事情，同时学习充电。
 
-**2023 年恢复后**，开始运营独立软件小组（🌿 述知科技：Remote. Open. Engineer.）
-
-目前在做的项目：
-- [Expound Note：知识整理工具](https://phab.xyz/project/view/1/)
-  - Expound knowledge from a node.
-  - 利用知识图谱和流程图来高效整理、阐述知识，一图胜千言。 
-- [Zaizhao SaaS 平台（Open Sources）](https://phab.xyz/project/view/9/)
+**2023 年-2024年**，开始运营独立软件小组（🌿 述知科技：Remote. Open. Engineer.）, 
+同时做一些初创企业(海规科技、茄子AI 3D手办、知行合逸)的技术咨询业务。
 
 ### 求职意向
 
-🙌 寻求一份 **Rust 工程师** 的工作机会，优先考虑远程，或成都本地。
+🙌 寻求一份 **Rust 工程师或前端** 的工作机会，优先考虑远程，或成都本地。
 
 ### 如何联系我
 
